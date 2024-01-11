@@ -1,11 +1,14 @@
 # Image-Generation
+
+### This repository is created based on my experiment on Image Generation. From 1 year I am learning different tools and technology on deep learning. I am providing an overview of how I am doing my experiment to improve outcomes of VAE model.
+
 The dataset provided here is a subset of original dataset by which the model is trained.
 You can use customize dataset for vae training.
 The model is created in colab.
 
 **Author:** [Md Rasul Islam Bapary]  
 **Date:** [11.01.2024]
-### This repository is created based on my experiment on Image Generation. From 1 year I am learning different tools and technology on deep learning. I am providing an overview of how I am doing my experiment to improve outcomes of VAE model.
+
 For the experiment I have used 3 kinds of dataset. The dataset are available on opensource. The dataset that I have used is uploaded partially in this repository.<br/>
 
 I have used,
